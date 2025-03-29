@@ -1,7 +1,7 @@
  With uv https://docs.astral.sh/uv/getting-started/ tool first set the env
  1. Rum `uv init` then `uv venv` to your new directory
  3. Now install mcp with `uv pip install mcp`
- 4. Finall install atlassian library `uv pip install atlassian-python-api`
+ 4. Install atlassian library `uv pip install atlassian-python-api`
  5. Open the main.py file and replace code with [THIS](/main.py)
  6. In your project directory add `.cursor/mcp.json` file with following content
 ```
