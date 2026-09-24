@@ -1,3 +1,5 @@
+## Deprecated : use official atlassian mcp
+ 
  With uv https://docs.astral.sh/uv/getting-started/ tool first set the env
  1. Rum `uv init` then `uv venv` to your new directory
  3. Now install mcp with `uv pip install mcp`
